@@ -1,0 +1,16 @@
+{
+  "name": "stockingdistributor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stockings.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamie Holding - @cube",
+  "license": "ISC",
+  "dependencies": {
+    "cli-clear": "^1.0.4",
+    "inquirer": "^0.11.0",
+    "stdio": "^0.2.7"
+  }
+}
